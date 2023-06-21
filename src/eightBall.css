@@ -1,0 +1,16 @@
+.eightball{
+    height: 16em;
+    width: 16em;
+border-radius: 50%;
+margin: auto;
+text-align: center;
+line-height: 16em;
+margin: 3em;
+}
+
+.eightball-text{
+    /* padding-top: 2.5em; */
+    color: rgb(255, 255, 255);
+    margin-top: auto;
+    
+}
